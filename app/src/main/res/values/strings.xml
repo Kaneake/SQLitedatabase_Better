@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite database</string>
+    <string name="search">Search</string>
+    <string name="selectTitle">Select Title</string>
+</resources>
